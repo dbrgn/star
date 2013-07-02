@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(name='star',
-      version=0.1,
+      version='0.1.1',
       description='import star',
       long_description='Making star imports possible. Or not.',
       author='Danilo Bargen',
